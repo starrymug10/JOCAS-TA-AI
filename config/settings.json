@@ -1,0 +1,10 @@
+{
+  "name": "JOCAS﻿TA",
+  "version": "1.0",
+  "mode": "hybrid",
+  "language": "bilingual",
+  "voice": "realistic",
+  "ai_model": "gpt-5",
+  "author": "starrymug10",
+  "description": "AI personal assistant hybrid dengan wake-word Hey Jocasta."
+}
